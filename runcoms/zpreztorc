@@ -177,3 +177,8 @@ zstyle ':prezto:module:terminal:tab-title' format '%s'
 # Integrate with iTerm2.
 zstyle ':prezto:module:tmux:iterm' integrate 'yes'
 
+#
+# Completion
+#
+
+zstyle ':prezto:module:completion:*' completer _complete
