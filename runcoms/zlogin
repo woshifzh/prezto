@@ -21,3 +21,5 @@ if (( $+commands[fortune] )); then
     print
   fi
 fi
+
+# activate-python
